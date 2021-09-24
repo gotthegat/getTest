@@ -7,4 +7,8 @@ see history: git log
 
 go back: git checkout <commit hash>
 list of branches: git branch
+go back to latest revision: git checkout master
+create new branch: git branch newBranch
+checkout new branch: get checkout newBranch
 
+merge branches: git merge newBranch
