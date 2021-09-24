@@ -1,0 +1,5 @@
+initialize project in folder: git init
+check status: git status
+stage: git add git-commands.txt otherFile.htm
+commit: git commit -m "Initial commit"
+see history: git log
