@@ -6,4 +6,5 @@ commit: git commit -m "Initial commit"
 see history: git log
 
 go back: git checkout <commit hash>
+list of branches: git branch
 
