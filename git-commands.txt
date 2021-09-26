@@ -11,4 +11,9 @@ go back to latest revision: git checkout master
 create new branch: git branch newBranch
 checkout new branch: get checkout newBranch
 
-merge branches: git merge newBranch
+merge branches: from master, git merge newBranch
+
+******************************
+
+github
+
