@@ -16,4 +16,8 @@ merge branches: from master, git merge newBranch
 ******************************
 
 github
-
+create new repo on github
+add remote (label for URL): git remote add origin https://github.com/...
+(origin is a label for the remote)
+push: git push -u origin master
+list remotes: git remote -v
